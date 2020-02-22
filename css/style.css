@@ -4,15 +4,8 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding: $navbar-padding-y $navbar-padding-x;
+}
 
-    %container-flex-properties {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        justify-content: space-between;
-    }
-
-    body {
-        background-color: tomato;
-    }
+body {
+    background-color: white;
+}
